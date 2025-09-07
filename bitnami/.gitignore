@@ -1,0 +1,12 @@
+*
+**/*
+
+!APACHE.md
+!GPLv3.md
+!LICENSE.md
+
+!charts
+!charts/**/*
+
+!containers
+!containers/**/*
